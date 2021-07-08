@@ -1,0 +1,4 @@
+Letters must be in black and
+background must be white or you can change the logic and
+threshold values to work with other colors.
+
